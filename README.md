@@ -1,9 +1,5 @@
 # dockerfiles
-dockerイメージを作成するためのファイル群(予定)
-
-# Link Dockerhub
-[satjopg/dockerfiles](https://hub.docker.com/r/satjopg/dockerfiles/)とリンクしている。  
-automated buildのテストも兼ねている。
+dockerイメージを作成するためのファイル群(バックアップ兼任)
 
 # Requirements
 * Docker version 1.13.0
@@ -29,5 +25,5 @@ docker run -it [image_name]
 ```
 
 # Future
-* nodeの環境構築用イメージ
+* nodeの環境構築用イメージ(開発用は一応完成,外部公開等は未完)
 * railsの環境構築用イメージ
